@@ -1,0 +1,5 @@
+bbb.io-gateware (1.20231226.0-0~lunar) lunar; urgency=low
+
+  * ci build of https://git.beagleboard.org/beaglev-fire/gateware
+
+ -- Robert Nelson <robertcnelson@beagleboard.org>  Tue, 26 Dec 2023 17:41:26 +0000

@@ -1,0 +1,3 @@
+[submodule "sources/HSS"]
+	path = sources/HSS
+	url = https://openbeagle.org/beaglev-fire/hart-software-services.git
